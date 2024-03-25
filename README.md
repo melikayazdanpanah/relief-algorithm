@@ -11,6 +11,7 @@ Algorithm Structure:
 6. W[A] :=W[A]+diff(A,Ri,H)/m-diff(A,Ri,M)/m;
 7. end;
 
-#TOOLS:
+TOOLS:
 pandas library
 numpy library
+
